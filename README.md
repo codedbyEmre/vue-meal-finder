@@ -1,5 +1,7 @@
 # vue-meal-finder-app
 
+A meal finder app that searches for what is needed for users.It is coded with Vue3 and Bootstrap5
+
 ## Project setup
 ```
 npm install
